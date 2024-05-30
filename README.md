@@ -5,6 +5,9 @@
 # Introduction
 Welcome to the FREDS (Freedom, Rights, Expression, Democracy, and Security) project, a revolutionary step towards redefining social media by prioritizing user privacy, open dialogue, and global community engagement. FREDS is a decentralized social media application designed to empower individuals around the world to express themselves freely without compromising their identity or fearing repercussions. Our mission is to provide a secure, transparent, and anonymous platform for all voices to be heard, transcending geographical boundaries, and ensuring the integrity of democratic principles. This repository contains the source code and documentation for the FREDS project, and we invite you to join us in shaping the future of online communication.
 
+**Access the Tutorial**:
+For a step-by-step guide on setting up the FREDS development environment, refer to the tutorial linked here: - 
+FREDS Development Setup Tutorial:- <a href="https://youtu.be/PEVLJlpf_3M?si=WUI1ClfNE5HQAxYU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="FREDS" height="30" width="40" /></a>
 
 **Setting Up FREDS Development Environment**
 
@@ -49,8 +52,5 @@ Welcome to the FREDS (Freedom, Rights, Expression, Democracy, and Security) proj
      python flask_server.py
      ```
    - The Flask server will run on localhost:5000.
-
-**Access the Tutorial**:
-For a step-by-step guide on setting up the FREDS development environment, refer to the tutorial linked here: [FREDS Development Setup Tutorial](https://youtu.be/PEVLJlpf_3M?si=WUI1ClfNE5HQAxYU).
 
 Now you're ready to contribute to FREDS and be a part of the future of secure, anonymous, and open online communication.
